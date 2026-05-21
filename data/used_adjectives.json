@@ -1,0 +1,7 @@
+{
+  "used": [
+    "able"
+  ],
+  "last_reset": null,
+  "note": "One word per day from data/how_are_you_answers.json, sent A-Z in order."
+}

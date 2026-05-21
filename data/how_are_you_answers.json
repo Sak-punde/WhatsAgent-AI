@@ -1,0 +1,18 @@
+{
+  "description": "One word per day — sent in A-Z order (fantastic, great, amazing, ...)",
+  "answers": [
+    "able", "ace", "alive", "amazing", "awesome", "blessed", "blissful", "bold",
+    "bright", "brilliant", "calm", "charged", "cheerful", "chill", "chipper",
+    "confident", "content", "cool", "cozy", "crisp", "dandy", "divine", "dreamy",
+    "ecstatic", "elated", "energetic", "epic", "excellent", "fabulous", "fantastic",
+    "fine", "fit", "fresh", "glad", "glorious", "golden", "good", "grand", "great",
+    "happy", "healthy", "hearty", "hopeful", "hyped", "incredible", "inspired",
+    "jolly", "joyful", "lively", "lovely", "lucky", "magical", "marvelous", "merry",
+    "motivated", "neat", "nice", "okay", "optimistic", "outstanding", "peaceful",
+    "peachy", "peppy", "perfect", "perky", "pleased", "positive", "prime", "pumped",
+    "radiant", "ready", "refreshed", "relaxed", "rested", "revived", "rosy", "set",
+    "snazzy", "solid", "splendid", "stellar", "strong", "sunny", "super", "superb",
+    "swell", "terrific", "thrilled", "upbeat", "vibrant", "warm", "well", "wonderful",
+    "zesty"
+  ]
+}

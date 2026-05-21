@@ -1,0 +1,40 @@
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# Chrome profile (contains session data)
+chrome_profile/
+
+# Logs and runtime data
+logs/*.log
+!logs/.gitkeep
+
+# Screenshots and error dumps
+screenshots/*
+!screenshots/.gitkeep
+errors/*
+!errors/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
